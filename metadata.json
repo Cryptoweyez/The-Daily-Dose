@@ -1,0 +1,5 @@
+{
+  "name": "The Daily Dose",
+  "description": "A smart nutrition calculator for your pets. Determine the optimal food type and amount for your dog or cat based on breed, weight, medical conditions, and preferred brands using AI analysis.",
+  "requestFramePermissions": []
+}
